@@ -1,5 +1,5 @@
 .moja{
-  display: none!important;
+  display: block;
 }
 .cmss1{
   transform: rotate(180deg);
