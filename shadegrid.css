@@ -10,4 +10,5 @@
 .cmss2{
    letter-spacing: 5px;
   transform: rotate(5deg);
+  color:red;
 }
